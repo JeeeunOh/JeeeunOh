@@ -1,5 +1,4 @@
 # Jieun Oh
-[email](0909oje@gmail.com)
 
 ## My Experience
 ### 🌱 I’m studying at Ewha Womans Univ (2019.03.02 ~
