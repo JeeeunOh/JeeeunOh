@@ -6,5 +6,5 @@
 
 
 ## Interest
-### 🌱Java
-### 🌱App
+### 🌱 Front-end
+### 🌱 App
