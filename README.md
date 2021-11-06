@@ -1,11 +1,11 @@
 # Jieun Oh
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0909oje">
-
 <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-5882FA?style=flat-square&logo=Java&logoColor=white"/></a>
 
-&nbsp;&nbsp;&nbsp;
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0909oje">
+
+&nbsp;
 
 ## My Experience
 ### 🌱 컴퓨터공학과 재학
