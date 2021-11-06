@@ -1,8 +1,7 @@
 # Jieun Oh
 
-<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-5882FA?style=flat-square&logo=Java&logoColor=white"/></a>
 
 ## My Experience
 ### 🌱 컴퓨터공학과에 재학중 (2019.03.02 ~
