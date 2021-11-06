@@ -1,6 +1,6 @@
 # Jieun Oh
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/</a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 ## My Experience
 ### 🌱 컴퓨터공학과에 재학중 (2019.03.02 ~
