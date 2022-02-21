@@ -15,6 +15,7 @@
 ### 🔥 컴퓨터공학과 재학
 ### 🔥 Algorithm Study with EDOC (2020.12.24 ~
 ### 🔥 FE Study with EFUB (2021.03.20 ~ 2021.12.05)
+### 🔥 React-Native Study with Albatross (2021.09.02 ~ )
 
 ## Interest
 ### 🌱 Front-end
