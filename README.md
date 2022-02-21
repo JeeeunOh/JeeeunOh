@@ -15,6 +15,5 @@
 <br>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0909oje">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0909oje)](https://github.com/anuraghazra/github-readme-stats)
-
+github-readme-stats.vercel.app/api?username=0909oje&show_icons=true&theme=dark
 </div>
