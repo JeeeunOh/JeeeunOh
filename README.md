@@ -1,6 +1,6 @@
 <div align="center">
   
-##Front-end Engineer
+<font size="2em"> Front-end Engineer </font>
   
 <br>
 
