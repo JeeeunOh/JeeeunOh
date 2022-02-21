@@ -10,6 +10,8 @@
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0909oje">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0909oje)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## My Experience
 ### 🔥 컴퓨터공학과 재학
