@@ -12,5 +12,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0909oje&show_icons=true&theme=tokyonight)
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0909oje">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0909oje" align='right'>
 
