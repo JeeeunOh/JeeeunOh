@@ -1,6 +1,7 @@
 ## Front-end Engineer 
   
-### Stacks 
+### 💻 Stacks 
+
 <img alt="React" src ="https://img.shields.io/badge/React-E34F26.svg?&style=for-the-badge&logo=REACT&logoColor=white"/></a>
 <img alt="React" src ="https://img.shields.io/badge/ReactNative-E34F26.svg?&style=for-the-badge&logo=REACT&logoColor=white"/></a>
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>
