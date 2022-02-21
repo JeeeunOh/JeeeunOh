@@ -4,11 +4,6 @@
   
 <br>
 
-<img src="https://img.shields.io/badge/C%2B%2B-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-5882FA?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-FE2E2E?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ReactNative-FE2E2E?style=flat-square&logo=React&logoColor=white"/></a>
-
 <img alt="React" src ="https://img.shields.io/badge/React-E34F26.svg?&style=for-the-badge&logo=REACT&logoColor=white"/></a>
 <img alt="React" src ="https://img.shields.io/badge/ReactNative-E34F26.svg?&style=for-the-badge&logo=REACT&logoColor=white"/></a>
 
