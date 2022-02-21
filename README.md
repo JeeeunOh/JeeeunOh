@@ -1,4 +1,4 @@
-<div align="center">
+
   
 <font size="3em"> Front-end Engineer </font>
   
@@ -15,6 +15,5 @@
 <br>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0909oje">
-<img src="github-readme-stats.vercel.app/api?username=0909oje&show_icons=true&theme=dark">
+github-readme-stats.vercel.app/api?username=0909oje&show_icons=true&theme=dark
 
-</div>
