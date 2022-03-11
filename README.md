@@ -2,7 +2,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0909oje)](https://solved.ac/0909oje)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=0909oje&theme=warm)
   
 ### 💻 Stacks 
 
