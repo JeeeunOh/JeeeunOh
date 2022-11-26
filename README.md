@@ -1,8 +1,7 @@
 <div align="center">
 
-  ### 💻 Stacks 
-
-  **Front-end**
+  ### 📌 Stacks 
+  ### Front-end
 
   <div>
     <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -16,10 +15,8 @@
     <img alt="React" src ="https://img.shields.io/badge/ReactNative-87CEFA.svg?&style=for-the-badge&logo=REACT&logoColor=white"/>
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   </div>
-  
-  <br/>
 
-  **etc**
+  ### etc
 
   <div>
     <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
