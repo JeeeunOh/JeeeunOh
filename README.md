@@ -28,6 +28,8 @@
 
   <br/>
   <br/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeeunOh&layout=compact&hide=C,CMake&exclude_repo=Univ-Lecture)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeeeunOh&show_icons=true&theme=tokyonight)
   
