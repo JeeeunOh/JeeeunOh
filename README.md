@@ -28,10 +28,12 @@
   
   <img alt="Java" src ="https://img.shields.io/badge/Java-00599C.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white"/><br/>
+  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+  <img alt="ApacheTomcat" src ="https://img.shields.io/badge/ApacheTomcat-F8DC75.svg?&style=for-the-badge&logo=ApacheTomcat&logoColor=white"/>
   <img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-  
-
 
   <br/>
   <br/>
