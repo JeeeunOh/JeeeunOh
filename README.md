@@ -14,11 +14,24 @@
     <img alt="React" src ="https://img.shields.io/badge/ReactNative-87CEFA.svg?&style=round-square&logo=REACT&logoColor=white"/>
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=round-square&logo=vue.js&logoColor=white">
   </div>
+  
+  <div>
+    <img alt="styled-components" src ="https://img.shields.io/badge/styled-components-DB7093.svg?&style=round-square&logo=styled-components&logoColor=white"/>
+    <img alt="recoil" src ="https://img.shields.io/badge/recoil-0078D4.svg?&style=round-square&logo=recoil&logoColor=white"/>
+  </div>
 
   ### ✨ Studying
   
-  <img alt="Java" src ="https://img.shields.io/badge/Java-00599C.svg?&style=round-square&logo=JAVA&logoColor=white"/>
-  <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=round-square&logo=SpringBoot&logoColor=white"/>
+  <div>
+    <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=round-square&logo=Redux&logoColor=white"/>
+    <img alt="Redux-toolkit" src ="https://img.shields.io/badge/Redux-toolkit-764ABC.svg?&style=round-square&logo=Redux&logoColor=white"/>
+  </div>
+  
+  <div>
+    <img alt="Java" src ="https://img.shields.io/badge/Java-00599C.svg?&style=round-square&logo=JAVA&logoColor=white"/>
+    <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=round-square&logo=SpringBoot&logoColor=white"/>
+  </div>
+ 
   
   <br/>
   <br/>
