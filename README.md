@@ -24,7 +24,13 @@
   
   <div>
     <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=round-square&logo=Redux&logoColor=white"/>
-    <img alt="Redux-toolkit" src ="https://img.shields.io/badge/Redux-toolkit-764ABC.svg?&style=round-square&logo=Redux&logoColor=white"/>
+    <img alt="Redux-toolkit" src ="https://img.shields.io/badge/Redux toolkit-764ABC.svg?&style=round-square&logo=Redux&logoColor=white"/>
+     <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=round-square&logo=Next.js&logoColor=white"/>
+  </div>
+  
+  <div>
+    <img alt="Emotion" src ="https://img.shields.io/badge/Emotion-DE00A5.svg?&style=round-square&logo=Emotion&logoColor=white"/>
+    <img alt="Yarn" src ="https://img.shields.io/badge/Yarn Berry-2C8EBB.svg?&style=round-square&logo=Yarn&logoColor=white"/>
   </div>
   
   <div>
