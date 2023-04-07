@@ -21,21 +21,6 @@
     <img alt="Redux-toolkit" src ="https://img.shields.io/badge/Redux toolkit-764ABC.svg?&style=round-square&logo=Redux&logoColor=white"/>
   </div>
 
-  ### ✨ Studying
-
-  <div>
-     <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=round-square&logo=Next.js&logoColor=white"/>
-    <img alt="Emotion" src ="https://img.shields.io/badge/Emotion-DE00A5.svg?&style=round-square&logo=Emotion&logoColor=white"/>
-    <img alt="Yarn" src ="https://img.shields.io/badge/Yarn Berry-2C8EBB.svg?&style=round-square&logo=Yarn&logoColor=white"/>
-  </div>
-  
-  <div>
-    <img alt="Java" src ="https://img.shields.io/badge/Java-00599C.svg?&style=round-square&logo=JAVA&logoColor=white"/>
-    <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=round-square&logo=SpringBoot&logoColor=white"/>
-  </div>
- 
-  
-  <br/>
   <br/>
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeeeunOh&show_icons=true&theme=tokyonight&count_private=true&custom_title=JeeeunOh✨)
