@@ -23,7 +23,7 @@
 
   <br/>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeeeunOh&show_icons=true&theme=tokyonight&count_private=true&custom_title=JeeeunOh✨)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeeeunOh&show_icons=true&theme=tokyonight&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&custom_title=JeeeunOh✨)
   
   
 </div>
