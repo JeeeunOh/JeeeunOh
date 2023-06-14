@@ -1,31 +1,11 @@
-<div align="center">
+### ✨ Projects
+- 주린이를 위한 주식 포트폴리오 관리 서비스 [Finble](https://github.com/JeeeunOh/Finble-FE) - FE ( 2023.01 ~ 2023.02 )
+- 딥러닝을 활용한 글씨 연습 어플 [바른글씨](https://github.com/E-Albatross/Albatross-FE) - FE ( 2021.09 ~ 2022.06 )
+- 이화여자대학교 웹개발동아리 [EFUB 웹페이지](https://github.com/JeeeunOh/EFUB-FE) - FE ( 2021.09 ~ 2022.01 )
 
-  ### ✨ Front-end
-
-  <div>
-    <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=round-square&logo=HTML5&logoColor=white"/>
-    <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=round-square&logo=CSS3&logoColor=white"/>
-    <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=round-square&logo=JavaScript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-3776AB?style=round-square&logo=TypeScript&logoColor=white">
-  </div>
-
-  <div>
-    <img alt="React" src ="https://img.shields.io/badge/React-87CEFA.svg?&style=round-square&logo=REACT&logoColor=white"/>
-    <img alt="React" src ="https://img.shields.io/badge/ReactNative-87CEFA.svg?&style=round-square&logo=REACT&logoColor=white"/>
-    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=round-square&logo=vue.js&logoColor=white">
-  </div>
-  
-  <div>
-    <img alt="styled-components" src ="https://img.shields.io/badge/styled-components-DB7093.svg?&style=round-square&logo=styled-components&logoColor=white"/>
-    <img alt="recoil" src ="https://img.shields.io/badge/recoil-0078D4.svg?&style=round-square&logo=recoil&logoColor=white"/>
-    <img alt="Redux-toolkit" src ="https://img.shields.io/badge/Redux toolkit-764ABC.svg?&style=round-square&logo=Redux&logoColor=white"/>
-  </div>
-
-  <br/>
-
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeeeunOh&show_icons=true&theme=tokyonight&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&custom_title=JeeeunOh✨)
-  
-  
-</div>
-
-
+### ✨ Experiences
+- 카카오엔터프라이즈 인턴 ( 2022.10 ~ 2023.03 )
+- 신촌 연합 IT창업동아리 CEOS 17기 FE 파트장 ( 2023.02 ~ )
+- 신촌 연합 IT창업동아리 CEOS 16기 FE ( 2022.09 ~ 2023.02 )
+- GDSC EWHA 3기 ( 2022.03 ~ 2022.07 )
+- 웹개발동아리 EFUB 1기 FE ( 2021.03 ~ 2021.12 )
